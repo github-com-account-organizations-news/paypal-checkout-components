@@ -1,5 +1,6 @@
 PayPal Checkout
----------------
+/https://github.com/github-com-account-organizations-news/paypal-checkout-components.git
+https://github.com/https-github-com-52005723-ruzyysmartt/paypal-checkout-components.git
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/paypal/paypal-checkout) [![Build Status](https://travis-ci.org/paypal/paypal-checkout.svg?branch=master)](https://travis-ci.org/paypal/paypal-checkout-components) [![dependencies Status](https://david-dm.org/paypal/paypal-checkout/status.svg)](https://david-dm.org/paypal/paypal-checkout-components) [![devDependencies Status](https://david-dm.org/paypal/paypal-checkout/dev-status.svg)](https://david-dm.org/paypal/paypal-checkout-components?type=dev)
 
